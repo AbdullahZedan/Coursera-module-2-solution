@@ -95,16 +95,21 @@ h1{
 .cont-1{
     padding: 25px 10px 10px 10px;
     margin: 10px;
+    background-color: grey;
 }
 
 .cont-2{
     padding: 25px 10px 10px 10px;
     margin: 10px;
+    background-color: grey;
+
 }
 
 .cont-3{
     padding: 25px 10px 10px 10px;
     margin: 10px;
+    background-color: grey;
+
 }
 
 @media (min-width: 992px) {
